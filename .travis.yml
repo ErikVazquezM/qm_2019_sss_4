@@ -39,6 +39,7 @@ install:
   - conda activate test
     # Build and install package
   - conda install -c conda-forge eigen
+  - conda install -c conda-forge pybind11
   - python setup.py develop --no-deps
 
 

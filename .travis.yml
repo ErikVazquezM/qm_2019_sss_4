@@ -44,7 +44,7 @@ install:
 
 
 script:
-  - pytest -v --cov=qm_2019_sss_4/ qm_2019_sss_4/qm_project_sss/tests/
+  - pytest -v --cov=qm_2019_sss_4/ /qm_project_sss/tests/
 
 notifications:
     email: false

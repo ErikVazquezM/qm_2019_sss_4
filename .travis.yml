@@ -53,4 +53,7 @@ notifications:
 after_success:
   - codecov
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 265062447bdeef9596f7942c892d0eab35e38d2b
